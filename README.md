@@ -1,6 +1,13 @@
-# PsnStore
+# Playstation Store
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
+
+# Technologies used
+Angular, Typescript, CSS, HTML
+
+# View
+
+<img src="../psn-store/src/assets/psn-store.png" alt="psn-store"></img>
 
 ## Development server
 
