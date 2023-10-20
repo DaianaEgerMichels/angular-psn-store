@@ -7,7 +7,7 @@ Angular, Typescript, CSS, HTML
 
 # View
 
-<img src="../psn-store/src/assets/psn-store.png" alt="psn-store"></img>
+<img src="src/assets/psn-store.png" alt="psn-store"></img>
 
 ## Development server
 
